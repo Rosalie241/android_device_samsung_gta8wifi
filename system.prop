@@ -4,7 +4,7 @@ ro.product.system.brand=samsung
 ro.product.system.device=gta8wifi
 ro.product.system.manufacturer=samsung
 ro.product.system.model=SM-X200
-ro.boot.bootdevice=7824900.sdhci
+ro.boot.bootdevice=soc:ap-apb/71400000.sdio
 ro.boot.dynamic_partitions=true
 ro.adb.secure=0
 
